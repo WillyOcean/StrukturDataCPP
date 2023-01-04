@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672455030 source:d:\a_telkom university\a_pembelajaran\semester 3\struktur data\a code\tp modul 6\tubes_std_kelompok ali_if4507\tubes_std_kelompok ali_if4507\main.cpp
+	"kotaLahir.h"
+
+1672458346 source:d:\a_telkom university\a_pembelajaran\semester 3\struktur data\a code\tp modul 6\tubes_std_kelompok ali_if4507\tubes_std_kelompok ali_if4507\kotalahir.cpp
+	"kotaLahir.h"
+
+1672395612 d:\a_telkom university\a_pembelajaran\semester 3\struktur data\a code\tp modul 6\tubes_std_kelompok ali_if4507\tubes_std_kelompok ali_if4507\kotalahir.h
+	<iostream>
+
